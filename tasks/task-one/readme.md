@@ -114,7 +114,7 @@
 ---
 # Список источников
 
-[^1]: [Ring video doorbell](https://ring.com/support/products/doorbells/video-doorbell-gen-2?page=1&srsltid=AfmBOoqFyVSnp-WHWD4X9AzelTEOt5rqyFS09wfbF965IZCF-UN5hoGM&utm_source=chatgpt.com "Video Doorbell (2nd Gen)
+[^1]: [Ring video doorbell](https://ring.com/support/products/doorbells/video-doorbell-gen-2?page=1)
 
 [^2]: [Ring. Gen 2.](https://ring.com/support/products/doorbells/video-doorbell-gen-2)
 
